@@ -1,1 +1,217 @@
-{"categorie": "Animaux", "titre": "Animaux en chiffres", "questions": [{"titre": "Combien de temps dure en moyenne la gestation d'une \u00e9l\u00e9phante ?", "choix": [["13 mois", false], ["17 mois", false], ["21 mois", true], ["9 mois", false]]}, {"titre": "\u00c0 combien de pulsations par minute bat le coeur d'un h\u00e9risson en hibernation ?", "choix": [["28", false], ["18", true], ["8", false], ["38", false]]}, {"titre": "Jusqu'\u00e0 combien de kilom\u00e8tres le cri du singe hurleur est-il audible ?", "choix": [["3 km", true], ["12 km", false], ["9 km", false], ["6 km", false]]}, {"titre": "En quelle ann\u00e9e le dernier dodo vivant a-t-il \u00e9t\u00e9 vu \u00e0 l'\u00eele Maurice ?", "choix": [["1723", false], ["1681", true], ["1908", false], ["1832", false]]}, {"titre": "Combien de bisons environ Buffalo Bill a-t-il abattus en 18 mois seulement ?", "choix": [["1 000", false], ["3 000", false], ["4 000", true], ["2 000", false]]}, {"titre": "Jusqu'\u00e0 quelle altitude vivent en g\u00e9n\u00e9ral les bouquetins des Alpes ?", "choix": [["3 500 m", true], ["4 600 m", false], ["1 900 m", false], ["2 300 m", false]]}, {"titre": "Combien de minutes une otarie peut-elle nager sous l'eau sans respirer ?", "choix": [["5 min", true], ["9 min", false], ["7 min", false], ["11 min", false]]}, {"titre": "Quelle est, en centim\u00e8tres, la longueur de la langue d'un fourmilier adulte ?", "choix": [["50 cm", false], ["60 cm", true], ["70 cm", false], ["80 cm", false]]}, {"titre": "Quel est le pourcentage de rongeurs parmi les mammif\u00e8res ?", "choix": [["30 %", false], ["40 %", true], ["10 %", false], ["20 %", false]]}, {"titre": "Combien de fois par minute un fourmilier peut-il sortir la langue de sa gueule ?", "choix": [["120 fois", false], ["160 fois", true], ["80 fois", false], ["40 fois", false]]}], "difficulte": "d\u00e9butant"}
+{
+    "categorie": "Animaux",
+    "titre": "Animaux en chiffres",
+    "questions": [
+        {
+            "titre": "Combien de temps dure en moyenne la gestation d'une éléphante ?",
+            "choix": [
+                [
+                    "13 mois",
+                    false
+                ],
+                [
+                    "17 mois",
+                    false
+                ],
+                [
+                    "21 mois",
+                    true
+                ],
+                [
+                    "9 mois",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "À combien de pulsations par minute bat le coeur d'un hérisson en hibernation ?",
+            "choix": [
+                [
+                    "28",
+                    false
+                ],
+                [
+                    "18",
+                    true
+                ],
+                [
+                    "8",
+                    false
+                ],
+                [
+                    "38",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Jusqu'à combien de kilomètres le cri du singe hurleur est-il audible ?",
+            "choix": [
+                [
+                    "3 km",
+                    true
+                ],
+                [
+                    "12 km",
+                    false
+                ],
+                [
+                    "9 km",
+                    false
+                ],
+                [
+                    "6 km",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "En quelle année le dernier dodo vivant a-t-il été vu à l'île Maurice ?",
+            "choix": [
+                [
+                    "1723",
+                    false
+                ],
+                [
+                    "1681",
+                    true
+                ],
+                [
+                    "1908",
+                    false
+                ],
+                [
+                    "1832",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Combien de bisons environ Buffalo Bill a-t-il abattus en 18 mois seulement ?",
+            "choix": [
+                [
+                    "1 000",
+                    false
+                ],
+                [
+                    "3 000",
+                    false
+                ],
+                [
+                    "4 000",
+                    true
+                ],
+                [
+                    "2 000",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Jusqu'à quelle altitude vivent en général les bouquetins des Alpes ?",
+            "choix": [
+                [
+                    "3 500 m",
+                    true
+                ],
+                [
+                    "4 600 m",
+                    false
+                ],
+                [
+                    "1 900 m",
+                    false
+                ],
+                [
+                    "2 300 m",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Combien de minutes une otarie peut-elle nager sous l'eau sans respirer ?",
+            "choix": [
+                [
+                    "5 min",
+                    true
+                ],
+                [
+                    "9 min",
+                    false
+                ],
+                [
+                    "7 min",
+                    false
+                ],
+                [
+                    "11 min",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Quelle est, en centimètres, la longueur de la langue d'un fourmilier adulte ?",
+            "choix": [
+                [
+                    "50 cm",
+                    false
+                ],
+                [
+                    "60 cm",
+                    true
+                ],
+                [
+                    "70 cm",
+                    false
+                ],
+                [
+                    "80 cm",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Quel est le pourcentage de rongeurs parmi les mammifères ?",
+            "choix": [
+                [
+                    "30 %",
+                    false
+                ],
+                [
+                    "40 %",
+                    true
+                ],
+                [
+                    "10 %",
+                    false
+                ],
+                [
+                    "20 %",
+                    false
+                ]
+            ]
+        },
+        {
+            "titre": "Combien de fois par minute un fourmilier peut-il sortir la langue de sa gueule ?",
+            "choix": [
+                [
+                    "120 fois",
+                    false
+                ],
+                [
+                    "160 fois",
+                    true
+                ],
+                [
+                    "80 fois",
+                    false
+                ],
+                [
+                    "40 fois",
+                    false
+                ]
+            ]
+        }
+    ],
+    "difficulte": "débutant"
+}
