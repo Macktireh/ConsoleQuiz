@@ -3,15 +3,54 @@ import json
 import unicodedata
 
 open_quizz_db_data = (
-    ("Animaux", "Les chats",
-     "https://www.kiwime.com/oqdb/files/1050288832/OpenQuizzDB_050/openquizzdb_50.json"),
-    ("Arts", "Musée du Louvre",
-     "https://www.kiwime.com/oqdb/files/1086665427/OpenQuizzDB_086/openquizzdb_86.json"),
-    ("Bande dessinnée", "Tintin",
-     "https://www.kiwime.com/oqdb/files/2124627594/OpenQuizzDB_124/openquizzdb_124.json"),
-    ("Cinéma", "Alien", "https://www.kiwime.com/oqdb/files/3241985774/OpenQuizzDB_241/openquizzdb_241.json"),
-    ("Cinéma", "Star wars",
-     "https://www.kiwime.com/oqdb/files/1090683544/OpenQuizzDB_090/openquizzdb_90.json"),
+    (
+        "Animaux", "Les chats",
+        "https://www.kiwime.com/oqdb/files/1050288832/OpenQuizzDB_050/openquizzdb_50.json"
+    ),
+    (
+        "Animaux", "Animaux en chiffres",
+        "https://www.kiwime.com/oqdb/files/2175937875/OpenQuizzDB_175/openquizzdb_175.json"
+    ),
+    (
+        "Animaux", "Oiseaux",
+        "https://www.kiwime.com/oqdb/files/2145546865/OpenQuizzDB_145/openquizzdb_145.json"
+    ),
+    (
+        "Arts", "Musée du Louvre",
+        "https://www.kiwime.com/oqdb/files/1086665427/OpenQuizzDB_086/openquizzdb_86.json"
+    ),
+    (
+        "Arts", "Romantisme",
+        "https://www.kiwime.com/oqdb/files/2128943857/OpenQuizzDB_128/openquizzdb_128.json"
+    ),
+    (
+        "Bande dessinnée", "Tintin",
+        "https://www.kiwime.com/oqdb/files/2124627594/OpenQuizzDB_124/openquizzdb_124.json"
+    ),
+    (
+        "Cinéma", "Alien",
+        "https://www.kiwime.com/oqdb/files/3241985774/OpenQuizzDB_241/openquizzdb_241.json"
+    ),
+    (
+        "Cinéma", "Star wars",
+        "https://www.kiwime.com/oqdb/files/1090683544/OpenQuizzDB_090/openquizzdb_90.json"
+    ),
+    (
+        "Cinéma", "Harry Potter",
+        "https://www.kiwime.com/oqdb/files/1003995292/OpenQuizzDB_003/openquizzdb_3.json"
+    ),
+    (
+        "CÉLÉBRITÉS", "ALBERT CÉLÈBRES",
+        "https://www.kiwime.com/oqdb/files/3265948628/OpenQuizzDB_265/openquizzdb_265.json"
+    ),
+    (
+        "CÉLÉBRITÉS", "Célébrités (D'hier à aujourd'hui)",
+        "https://www.kiwime.com/oqdb/files/3265948628/OpenQuizzDB_265/openquizzdb_265.json"
+    ),
+    (
+        "Géographie", "CULTURE MONDIALE",
+        "https://www.kiwime.com/oqdb/files/2111633646/OpenQuizzDB_111/openquizzdb_111.json"
+    ),
 )
 
 
